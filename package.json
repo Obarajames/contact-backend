@@ -4,7 +4,8 @@
   "description": "Library server project",
   "main": "server.js",
   "scripts": {
-    "dev": "nodemon server.js"
+    "start": "node server",
+    "dev": "nodemon server"
   },
   "keywords": [],
   "author": "",
